@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 👩‍💻 About Me<br>🔭 I’m working as a student at Universitas Esa Unggul majoring in Informatics Engineering.<br>📚 I'm currently learning various aspects of software development, including web and mobile application development, as well as data science.<br>⚡ In my free time, I enjoy reading tech blogs, participating in coding challenges, and exploring new technologies.
 
